@@ -1,5 +1,5 @@
 # wifi-password
-Wifi Passowrds
+Wifi Passwords
 
 Here I have used the Subprocess Library.
 
